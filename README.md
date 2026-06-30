@@ -1,3 +1,6 @@
+## Project Explanation Video
+https://github.com/yash1880/Bookstore-1/blob/24eb1adadfc9e99617a8685737d771a93232f471/My%20project%201%202026-06-30_23-43-16.mp4
+
 # Book Store Management System
 
 ## Problem Definition
